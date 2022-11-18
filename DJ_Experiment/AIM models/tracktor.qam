@@ -1,0 +1,86 @@
+<QTM_Model_Ver_1.00>
+    <Body_1>
+        <Trajectories>
+            <Trajectory>
+                <Name>M_TR</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_BL</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_TL</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_BR</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>top_left</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>bottom_left</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>top_right</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>bottom_right</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+        </Trajectories>
+        <Bones>
+            <Bone>
+                <Index Low="5" High="6"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>306.945028</Length>
+                <MaxLength>306.945028</MaxLength>
+                <MinLength>306.945028</MinLength>
+                <MaxRange>0.375367</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="7" High="8"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>363.263396</Length>
+                <MaxLength>363.263396</MaxLength>
+                <MinLength>363.263396</MinLength>
+                <MaxRange>1.032347</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="5" High="7"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>409.909052</Length>
+                <MaxLength>409.909052</MaxLength>
+                <MinLength>409.909052</MinLength>
+                <MaxRange>0.476457</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+        </Bones>
+        <Relations>
+            <Trajectory_Relation_1>
+                <System Origin="5" X-axis="6" XY-plane="7" Min="93.114081" Max="93.270176"/>
+                <Related_Trajectory Index="8" X-min="0.478457" X-max="0.480387" Y-min="0.877053" Y-max="0.878108" Z-min="0.001624" Z-max="0.004540"/>
+            </Trajectory_Relation_1>
+            <Trajectory_Relation_2>
+                <System Origin="5" X-axis="7" XY-plane="6" Min="93.114081" Max="93.270176"/>
+                <Related_Trajectory Index="8" X-min="0.849068" X-max="0.850744" Y-min="0.525566" Y-max="0.528280" Z-min="-0.004540" Z-max="-0.001624"/>
+            </Trajectory_Relation_2>
+            <Trajectory_Relation_3>
+                <System Origin="7" X-axis="5" XY-plane="8" Min="111.524439" Max="111.797002"/>
+                <Related_Trajectory Index="6" X-min="0.812135" X-max="0.812900" Y-min="0.582399" Y-max="0.583462" Z-min="-0.005010" Z-max="-0.001792"/>
+            </Trajectory_Relation_3>
+            <Trajectory_Relation_4>
+                <System Origin="7" X-axis="8" XY-plane="5" Min="111.524439" Max="111.797002"/>
+                <Related_Trajectory Index="6" X-min="0.239632" X-max="0.243870" Y-min="0.969806" Y-max="0.970855" Z-min="0.001792" Z-max="0.005010"/>
+            </Trajectory_Relation_4>
+        </Relations>
+        <FilesUsed>1</FilesUsed>
+    </Body_1>
+</QTM_Model_Ver_1.00>

@@ -1,0 +1,429 @@
+1	12:10:47	Realtime started	
+1	12:10:48	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:25:03	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:25:06	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 4.0) exceeding the warning level.
+1	12:25:08	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0162.qtm	
+1	12:25:08	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:31:06	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:31:09	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.4, 3.3 and 3.2) exceeding the warning level.
+1	12:31:11	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0163.qtm	
+1	12:31:11	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:32:24	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:32:26	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.3, 4.0 and 3.6) exceeding the warning level.
+1	12:32:26	Not all gaps were spline-filled	17 gaps out of 21 were spline-filled. The other 4 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:32:26	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:32:28	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0164.qtm	
+1	12:32:29	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:33:15	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:33:18	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.2, 3.7 and 3.5) exceeding the warning level.
+1	12:33:18	Not all gaps were spline-filled	11 gaps out of 12 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:33:18	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:33:20	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0165.qtm	
+1	12:33:20	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:33:55	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:33:58	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.2, 3.6 and 3.6) exceeding the warning level.
+1	12:34:00	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0166.qtm	
+1	12:34:00	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:35:32	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:35:35	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.0, 3.2 and 3.6) exceeding the warning level.
+1	12:35:36	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0167.qtm	
+1	12:35:37	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:38:42	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:38:47	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.4, 3.5, 3.8 and 3.9) exceeding the warning level.
+1	12:38:49	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0168.qtm	
+1	12:38:49	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:39:34	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:39:37	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.3, 3.5, 3.8 and 3.8) exceeding the warning level.
+1	12:39:37	Not all gaps were spline-filled	3 gaps out of 4 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:39:37	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:39:39	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0169.qtm	
+1	12:39:39	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:41:40	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:41:43	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.9, 3.3 and 3.7) exceeding the warning level.
+1	12:41:43	Not all gaps were spline-filled	One gap out of 2 was spline-filled. The other gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:41:43	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:41:45	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0170.qtm	
+1	12:41:45	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:42:22	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:42:29	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.1, 3.1 and 3.6) exceeding the warning level.
+1	12:42:31	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0171.qtm	
+1	12:42:31	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:43:14	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:43:16	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.0, 3.1 and 3.6) exceeding the warning level.
+1	12:43:18	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0172.qtm	
+1	12:43:19	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:44:04	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:44:06	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.1, 3.1 and 3.5) exceeding the warning level.
+1	12:44:09	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0173.qtm	
+1	12:44:09	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:44:48	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:44:51	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.0, 3.0 and 3.5) exceeding the warning level.
+1	12:44:53	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0174.qtm	
+1	12:44:53	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:45:37	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:45:48	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.1, 4.0, 3.0 and 3.5) exceeding the warning level.
+1	12:45:50	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0175.qtm	
+1	12:45:50	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:46:25	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:46:28	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.0, 4.1, 3.1 and 3.5) exceeding the warning level.
+1	12:46:30	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0176.qtm	
+1	12:46:30	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:47:15	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:47:18	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.6, 3.5 and 3.6) exceeding the warning level.
+1	12:47:20	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0177.qtm	
+1	12:47:21	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:47:57	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:48:00	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.5, 3.5 and 3.6) exceeding the warning level.
+1	12:48:02	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0178.qtm	
+1	12:48:02	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:48:44	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:48:49	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.6, 3.5 and 3.5) exceeding the warning level.
+1	12:48:51	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0179.qtm	
+1	12:48:51	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:49:27	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:49:30	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.4, 3.7 and 3.5) exceeding the warning level.
+1	12:49:30	Not all gaps were spline-filled	7 gaps out of 8 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:49:30	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:49:32	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0180.qtm	
+1	12:49:32	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:50:20	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:50:24	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.5, 3.6 and 3.4) exceeding the warning level.
+1	12:50:25	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0181.qtm	
+1	12:50:26	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:52:32	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:52:35	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.3, 3.4 and 3.7) exceeding the warning level.
+1	12:52:37	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0182.qtm	
+1	12:52:37	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:53:14	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:53:17	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.5, 3.7 and 3.2) exceeding the warning level.
+1	12:53:17	Not all gaps were spline-filled	33 gaps out of 39 were spline-filled. The other 6 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:53:17	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	12:53:18	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0183.qtm	
+1	12:53:19	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:54:01	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:54:04	Recalibration recommended	Cameras 2, 3, 4 and 8 have residuals (3.2, 3.5, 3.7 and 3.2) exceeding the warning level.
+1	12:54:06	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0184.qtm	
+1	12:54:06	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:54:42	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:54:45	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.3, 3.4 and 3.8) exceeding the warning level.
+1	12:54:47	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0185.qtm	
+1	12:54:48	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:55:37	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:55:40	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.2, 3.4 and 3.7) exceeding the warning level.
+1	12:55:42	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0186.qtm	
+1	12:55:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:56:28	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:56:31	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.3, 3.4 and 3.7) exceeding the warning level.
+1	12:56:33	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0187.qtm	
+1	12:56:33	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:57:09	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:57:12	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.2, 3.6 and 3.3) exceeding the warning level.
+1	12:57:14	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0188.qtm	
+1	12:57:15	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	12:57:52	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	12:58:06	Recalibration recommended	Cameras 2 and 3 have residuals (3.2 and 3.9) exceeding the warning level.
+1	12:58:08	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0189.qtm	
+1	12:58:09	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:34:38	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:34:41	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 3.7) exceeding the warning level.
+1	13:34:43	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0190.qtm	
+1	13:34:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:37:47	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:38:02	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 3.7) exceeding the warning level.
+1	13:38:04	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0191.qtm	
+1	13:38:04	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:39:22	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:39:24	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.2 and 3.6) exceeding the warning level.
+1	13:39:26	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0192.qtm	
+1	13:39:26	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:40:02	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:40:05	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:40:07	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0193.qtm	
+1	13:40:07	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:40:50	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:40:53	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:40:55	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0194.qtm	
+1	13:40:55	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:41:38	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:41:41	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:41:41	Not all gaps were spline-filled	19 gaps out of 25 were spline-filled. The other 6 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:41:41	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:41:43	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0195.qtm	
+1	13:41:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:42:19	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:42:22	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:42:22	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:42:22	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:42:24	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0196.qtm	
+1	13:42:24	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:43:20	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:43:22	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:43:24	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0197.qtm	
+1	13:43:25	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:44:01	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:44:04	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:44:06	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0198.qtm	
+1	13:44:06	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:44:51	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:44:54	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.0 and 3.8) exceeding the warning level.
+1	13:44:54	Not all gaps were spline-filled	54 gaps out of 55 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:44:54	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:44:56	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0199.qtm	
+1	13:44:57	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:46:00	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:46:03	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 3.9) exceeding the warning level.
+1	13:46:05	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0200.qtm	
+1	13:46:05	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:47:12	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:47:15	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 3.9) exceeding the warning level.
+1	13:47:15	Not all gaps were spline-filled	36 gaps out of 38 were spline-filled. The other 2 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:47:15	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:47:17	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0201.qtm	
+1	13:47:17	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:48:08	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:48:11	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:48:13	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0202.qtm	
+1	13:48:14	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:49:33	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:49:40	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:49:40	Not all gaps were spline-filled	42 gaps out of 48 were spline-filled. The other 6 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:49:40	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:49:43	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0203.qtm	
+1	13:49:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:50:30	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:50:33	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:50:33	Not all gaps were spline-filled	64 gaps out of 73 were spline-filled. The other 9 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:50:33	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:50:35	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0204.qtm	
+1	13:50:36	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:52:23	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:52:27	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.4, 3.1 and 3.3) exceeding the warning level.
+1	13:52:27	Not all gaps were spline-filled	109 gaps out of 116 were spline-filled. The other 7 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:52:27	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:52:29	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0205.qtm	
+1	13:52:30	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:53:47	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:53:50	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.0 and 3.6) exceeding the warning level.
+1	13:53:52	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0206.qtm	
+1	13:53:52	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:54:30	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:54:34	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.0 and 3.7) exceeding the warning level.
+1	13:54:34	Not all gaps were spline-filled	14 gaps out of 15 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:54:34	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:54:36	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0207.qtm	
+1	13:54:36	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:55:11	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:55:15	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:55:17	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0208.qtm	
+1	13:55:18	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:56:24	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:56:27	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:56:29	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0209.qtm	
+1	13:56:30	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:57:17	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:57:20	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:57:20	Not all gaps were spline-filled	19 gaps out of 21 were spline-filled. The other 2 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:57:20	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:57:23	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0210.qtm	
+1	13:57:23	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:58:12	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:58:15	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	13:58:17	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0211.qtm	
+1	13:58:17	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:58:53	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:58:57	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	13:58:57	Not all gaps were spline-filled	74 gaps out of 81 were spline-filled. The other 7 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:58:57	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:58:59	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0212.qtm	
+1	13:58:59	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	13:59:35	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	13:59:38	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	13:59:38	Not all gaps were spline-filled	12 gaps out of 13 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:59:38	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	13:59:41	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0213.qtm	
+1	13:59:41	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:01:12	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:01:16	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.1 and 3.6) exceeding the warning level.
+1	14:01:16	Not all gaps were spline-filled	63 gaps out of 66 were spline-filled. The other 3 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:01:16	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:01:18	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0214.qtm	
+1	14:01:18	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:02:04	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:02:07	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.7) exceeding the warning level.
+1	14:02:08	Not all gaps were spline-filled	182 gaps out of 193 were spline-filled. The other 11 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:02:08	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:02:09	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0215.qtm	
+1	14:02:10	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:02:50	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:02:53	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:02:53	Not all gaps were spline-filled	83 gaps out of 89 were spline-filled. The other 6 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:02:53	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:02:56	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0216.qtm	
+1	14:02:56	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:03:34	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:03:40	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:03:43	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0217.qtm	
+1	14:03:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:04:42	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:04:45	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:04:47	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0218.qtm	
+1	14:04:48	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:05:37	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:05:40	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:05:40	Not all gaps were spline-filled	47 gaps out of 48 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:05:40	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:05:43	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0219.qtm	
+1	14:05:43	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:06:19	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:06:22	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:06:22	Not all gaps were spline-filled	6 gaps out of 10 were spline-filled. The other 4 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:06:22	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:06:25	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0220.qtm	
+1	14:06:25	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:07:05	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:07:08	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:07:08	Not all gaps were spline-filled	277 gaps out of 290 were spline-filled. The other 13 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:07:08	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:07:11	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0221.qtm	
+1	14:07:11	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:08:12	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:08:15	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.7) exceeding the warning level.
+1	14:08:15	Not all gaps were spline-filled	77 gaps out of 84 were spline-filled. The other 7 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:08:15	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:08:18	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0222.qtm	
+1	14:08:18	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:09:01	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:09:04	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	14:09:04	Not all gaps were spline-filled	181 gaps out of 200 were spline-filled. The other 19 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:09:04	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:09:07	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0223.qtm	
+1	14:09:07	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:09:51	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:09:54	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:09:54	Not all gaps were spline-filled	9 gaps out of 10 were spline-filled. One gap was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:09:54	Not all gaps were spline-filled	The gap was not spline-filled because it was longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:09:57	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0224.qtm	
+1	14:09:57	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:10:52	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:10:55	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:10:57	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0225.qtm	
+1	14:10:58	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:11:52	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:11:56	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:11:59	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0226.qtm	
+1	14:11:59	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:12:35	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:12:38	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 4.0) exceeding the warning level.
+1	14:12:40	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0227.qtm	
+1	14:12:40	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:13:19	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:13:22	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:13:25	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0228.qtm	
+1	14:13:25	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:14:09	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:14:12	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.9) exceeding the warning level.
+1	14:14:14	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0229.qtm	
+1	14:14:14	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:14:52	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:15:03	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	14:15:03	Not all gaps were spline-filled	48 gaps out of 50 were spline-filled. The other 2 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:15:03	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:15:05	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0230.qtm	
+1	14:15:06	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:15:41	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:15:44	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.1 and 3.4) exceeding the warning level.
+1	14:15:47	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0231.qtm	
+1	14:15:47	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:17:23	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:17:26	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 3.4) exceeding the warning level.
+1	14:17:28	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0232.qtm	
+1	14:17:29	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:18:26	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:18:29	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.4, 3.3 and 3.0) exceeding the warning level.
+1	14:18:29	Not all gaps were spline-filled	103 gaps out of 105 were spline-filled. The other 2 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:18:29	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:18:32	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0233.qtm	
+1	14:18:32	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:19:45	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:19:48	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 3.4) exceeding the warning level.
+1	14:19:50	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0234.qtm	
+1	14:19:51	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:20:42	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:20:45	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.4, 3.3 and 3.1) exceeding the warning level.
+1	14:20:45	Not all gaps were spline-filled	137 gaps out of 154 were spline-filled. The other 17 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:20:45	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:20:48	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0235.qtm	
+1	14:20:48	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:22:01	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:22:04	Recalibration recommended	Cameras 2 and 3 have residuals (3.4 and 3.4) exceeding the warning level.
+1	14:22:04	Not all gaps were spline-filled	73 gaps out of 75 were spline-filled. The other 2 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:22:04	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:22:07	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0236.qtm	
+1	14:22:07	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:22:58	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:23:01	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.7) exceeding the warning level.
+1	14:23:01	Not all gaps were spline-filled	21 gaps out of 25 were spline-filled. The other 4 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:23:01	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:23:04	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0237.qtm	
+1	14:23:04	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:24:14	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:24:17	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:24:20	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0238.qtm	
+1	14:24:20	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:24:58	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:25:01	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.8) exceeding the warning level.
+1	14:25:04	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0239.qtm	
+1	14:25:04	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:26:09	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:26:12	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 3.8) exceeding the warning level.
+1	14:26:12	Not all gaps were spline-filled	235 gaps out of 249 were spline-filled. The other 14 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:26:12	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:26:15	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0240.qtm	
+1	14:26:15	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:27:03	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:27:11	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.7) exceeding the warning level.
+1	14:27:14	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0241.qtm	
+1	14:27:14	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:28:27	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:28:30	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 3.7) exceeding the warning level.
+1	14:28:30	Not all gaps were spline-filled	164 gaps out of 184 were spline-filled. The other 20 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:28:30	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:28:33	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0242.qtm	
+1	14:28:33	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:29:51	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:29:55	Recalibration recommended	Cameras 2 and 4 have residuals (3.5 and 4.0) exceeding the warning level.
+1	14:29:55	Not all gaps were spline-filled	489 gaps out of 528 were spline-filled. The other 39 gaps were longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:29:55	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	14:29:58	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0243.qtm	
+1	14:29:58	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:30:33	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:30:36	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 4.1) exceeding the warning level.
+1	14:30:39	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0244.qtm	
+1	14:30:40	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:31:16	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:31:18	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 4.0) exceeding the warning level.
+1	14:31:22	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0245.qtm	
+1	14:31:22	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:32:15	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:32:19	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 4.0) exceeding the warning level.
+1	14:32:22	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0246.qtm	
+1	14:32:22	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	14:32:56	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	14:33:00	Recalibration recommended	Cameras 2 and 4 have residuals (3.6 and 4.0) exceeding the warning level.
+1	14:33:03	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0247.qtm	
+1	14:33:03	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	15:12:38	Analog board #0 channel saturation.	Analog board #0 channel saturation. Saturated channels: , 28.
+1	15:12:41	Recalibration recommended	Cameras 2, 3 and 4 have residuals (3.5, 3.6 and 3.1) exceeding the warning level.
+1	15:12:44	File saved as C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0248.qtm	
+1	15:12:44	Multiple label matches for 6D body points	4 of the marker names of points of a rigid body had multiple label matches in the label list. Only the top-most match will be used when calculating 6D data.
+1	15:15:35	Disconnected	
+1	15:15:36	File loaded from C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_patti_0247.qtm	
+1	15:15:44	File closed	
+1	15:15:45	File loaded from C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_maria_0115.qtm	
+1	15:16:31	File closed	
+1	15:16:31	File loaded from C:\Users\HULK\Documents\DJ_Experiment\Data\pilot_FINAL_maria_0075.qtm	
+1	15:16:37	File closed	
+1	15:16:38	File loaded from C:\Users\HULK\Documents\DJ_Experiment\Data\DJ_PrePilot_0002.qtm	
+1	15:16:50	File closed	
+1	15:16:51	File loaded from C:\Users\HULK\Documents\DJ_Experiment\Data\dj_prepilot_A_0001.qtm	
+1	15:17:35	File closed	
