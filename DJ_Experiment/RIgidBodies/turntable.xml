@@ -1,0 +1,14 @@
+<QTM_Body_File_Ver_1.00>
+    <Body>
+        <Name>Plate_1</Name>
+        <Color R="0" G="128" B="255"/>
+        <Points>
+            <Point X="344.332266" Y="-195.898993" Z="102.354742" Virtual="0" Name="M_TR"/>
+            <Point X="703.348257" Y="379.151651" Z="99.479055" Virtual="0" Name="M_BL"/>
+            <Point X="711.119924" Y="-190.313346" Z="94.543668" Virtual="0" Name="M_TL"/>
+            <Point X="332.713857" Y="373.862588" Z="107.963339" Virtual="0" Name="M_BR"/>
+        </Points>
+        <Data_origin X="0.000000" Y="0.000000" Z="0.000000" Relative_body="1">0</Data_origin>
+        <Data_orientation R11="1.000000" R12="0.000000" R13="0.000000" R21="0.000000" R22="1.000000" R23="0.000000" R31="0.000000" R32="0.000000" R33="1.000000" Relative_body="1">0</Data_orientation>
+    </Body>
+</QTM_Body_File_Ver_1.00>

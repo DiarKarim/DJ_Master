@@ -1,0 +1,210 @@
+<QTM_Model_Ver_1.00>
+    <Body_1>
+        <Trajectories>
+            <Trajectory>
+                <Name>M_TR</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_BL</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_TL</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>M_BR</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Head</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>R_Shoulder</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>R_Elbow</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>R_Hand</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>L_Shoulder</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>L_Elbow</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>L_Hand</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Sternum</Name>
+                <Color R="0" G="255" B="0"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Bot_Right</Name>
+                <Color R="87" G="192" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Top_Right</Name>
+                <Color R="87" G="192" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Top_Left</Name>
+                <Color R="87" G="192" B="255"/>
+            </Trajectory>
+            <Trajectory>
+                <Name>Bot_Left</Name>
+                <Color R="87" G="192" B="255"/>
+            </Trajectory>
+        </Trajectories>
+        <Bones>
+            <Bone>
+                <Index Low="6" High="12"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>239.353663</Length>
+                <MaxLength>239.353663</MaxLength>
+                <MinLength>239.353663</MinLength>
+                <MaxRange>13.541352</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="9" High="12"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>239.524731</Length>
+                <MaxLength>239.524731</MaxLength>
+                <MinLength>239.524731</MinLength>
+                <MaxRange>16.141494</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="10" High="11"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>265.803870</Length>
+                <MaxLength>265.803870</MaxLength>
+                <MinLength>265.803870</MinLength>
+                <MaxRange>27.866217</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="9" High="10"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>287.351444</Length>
+                <MaxLength>287.351444</MaxLength>
+                <MinLength>287.351444</MinLength>
+                <MaxRange>30.053624</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="6" High="7"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>263.310649</Length>
+                <MaxLength>263.310649</MaxLength>
+                <MinLength>263.310649</MinLength>
+                <MaxRange>63.766430</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="7" High="8"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>282.658911</Length>
+                <MaxLength>282.658911</MaxLength>
+                <MinLength>282.658911</MinLength>
+                <MaxRange>50.724183</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+            <Bone>
+                <Index Low="5" High="12"/>
+                <Color R="246" G="249" B="124"/>
+                <Length>390.216177</Length>
+                <MaxLength>390.216177</MaxLength>
+                <MinLength>390.216177</MinLength>
+                <MaxRange>29.823745</MaxRange>
+                <Creator MST="1" User="0"/>
+            </Bone>
+        </Bones>
+        <Relations>
+            <Trajectory_Relation_1>
+                <System Origin="6" X-axis="7" XY-plane="12" Min="73.338990" Max="124.672481"/>
+                <Related_Trajectory Index="5" X-min="-0.937234" X-max="-0.433542" Y-min="-0.341013" Y-max="0.488303" Z-min="0.087400" Z-max="0.852982"/>
+                <Related_Trajectory Index="8" X-min="0.498955" X-max="0.965891" Y-min="-0.175307" Y-max="0.678187" Z-min="0.198179" Z-max="0.832664"/>
+                <Related_Trajectory Index="9" X-min="-0.954217" X-max="-0.149475" Y-min="0.194759" Y-max="0.962030" Z-min="-0.438513" Z-max="0.012163"/>
+            </Trajectory_Relation_1>
+            <Trajectory_Relation_2>
+                <System Origin="6" X-axis="12" XY-plane="7" Min="73.338990" Max="124.672481"/>
+                <Related_Trajectory Index="5" X-min="0.151237" X-max="0.376273" Y-min="-0.955698" Y-max="-0.467351" Z-min="-0.852982" Z-max="-0.087400"/>
+                <Related_Trajectory Index="8" X-min="-0.688493" X-max="0.742076" Y-min="0.477427" Y-max="0.894499" Z-min="-0.832664" Z-max="-0.198179"/>
+                <Related_Trajectory Index="9" X-min="0.697296" X-max="0.864991" Y-min="-0.679594" Y-max="-0.284436" Z-min="-0.012163" Z-max="0.438513"/>
+            </Trajectory_Relation_2>
+            <Trajectory_Relation_3>
+                <System Origin="7" X-axis="6" XY-plane="8" Min="64.978972" Max="153.321575"/>
+                <Related_Trajectory Index="12" X-min="0.691065" X-max="0.879270" Y-min="-0.315276" Y-max="0.572334" Z-min="0.361942" Z-max="0.708980"/>
+            </Trajectory_Relation_3>
+            <Trajectory_Relation_4>
+                <System Origin="7" X-axis="8" XY-plane="6" Min="64.978972" Max="153.321575"/>
+                <Related_Trajectory Index="12" X-min="-0.924117" X-max="0.809818" Y-min="0.120363" Y-max="0.842742" Z-min="-0.708980" Z-max="-0.361942"/>
+            </Trajectory_Relation_4>
+            <Trajectory_Relation_5>
+                <System Origin="9" X-axis="10" XY-plane="12" Min="66.686976" Max="98.961268"/>
+                <Related_Trajectory Index="5" X-min="-0.933673" X-max="-0.407143" Y-min="0.148307" Y-max="0.596445" Z-min="-0.804867" Z-max="0.044490"/>
+                <Related_Trajectory Index="6" X-min="-0.595906" X-max="-0.035284" Y-min="0.712314" Y-max="0.981382" Z-min="0.034671" Z-max="0.452956"/>
+                <Related_Trajectory Index="11" X-min="0.554078" X-max="0.891387" Y-min="-0.080386" Y-max="0.723609" Z-min="-0.782427" Z-max="-0.351362"/>
+            </Trajectory_Relation_5>
+            <Trajectory_Relation_6>
+                <System Origin="9" X-axis="12" XY-plane="10" Min="66.686976" Max="98.961268"/>
+                <Related_Trajectory Index="5" X-min="0.251474" X-max="0.369568" Y-min="-0.952575" Y-max="-0.534994" Z-min="-0.044490" Z-max="0.804867"/>
+                <Related_Trajectory Index="6" X-min="0.796442" X-max="0.859296" Y-min="-0.535781" Y-max="-0.241713" Z-min="-0.452956" Z-max="-0.034671"/>
+                <Related_Trajectory Index="11" X-min="-0.181020" X-max="0.859037" Y-min="0.360178" Y-max="0.807540" Z-min="0.351362" Z-max="0.782427"/>
+            </Trajectory_Relation_6>
+            <Trajectory_Relation_7>
+                <System Origin="10" X-axis="9" XY-plane="11" Min="63.750975" Max="126.343311"/>
+                <Related_Trajectory Index="12" X-min="0.670971" X-max="0.778498" Y-min="-0.066570" Y-max="0.644761" Z-min="-0.734148" Z-max="-0.306310"/>
+            </Trajectory_Relation_7>
+            <Trajectory_Relation_8>
+                <System Origin="10" X-axis="11" XY-plane="9" Min="63.750975" Max="126.343311"/>
+                <Related_Trajectory Index="12" X-min="-0.308809" X-max="0.861069" Y-min="0.366692" Y-max="0.779689" Z-min="0.306310" Z-max="0.734148"/>
+            </Trajectory_Relation_8>
+            <Trajectory_Relation_9>
+                <System Origin="12" X-axis="5" XY-plane="6" Min="60.673025" Max="76.738607"/>
+                <Related_Trajectory Index="7" X-min="-0.589803" X-max="0.107468" Y-min="-0.827018" Y-max="0.968535" Z-min="0.069765" Z-max="0.689792"/>
+                <Related_Trajectory Index="9" X-min="0.230065" X-max="0.536526" Y-min="-0.597025" Y-max="-0.277049" Z-min="-0.830599" Z-max="-0.745508"/>
+            </Trajectory_Relation_9>
+            <Trajectory_Relation_10>
+                <System Origin="12" X-axis="5" XY-plane="9" Min="57.552553" Max="76.699126"/>
+                <Related_Trajectory Index="6" X-min="0.229394" X-max="0.489793" Y-min="-0.589565" Y-max="-0.283946" Z-min="0.745156" Z-max="0.832723"/>
+                <Related_Trajectory Index="10" X-min="-0.697389" X-max="-0.303550" Y-min="0.593103" Y-max="0.914331" Z-min="-0.743609" Z-max="0.040060"/>
+            </Trajectory_Relation_10>
+            <Trajectory_Relation_11>
+                <System Origin="12" X-axis="6" XY-plane="5" Min="60.673025" Max="76.738607"/>
+                <Related_Trajectory Index="7" X-min="-0.907688" X-max="0.891969" Y-min="-0.808235" Y-max="-0.148703" Z-min="-0.689792" Z-max="-0.069765"/>
+                <Related_Trajectory Index="9" X-min="-0.484258" X-max="0.006346" Y-min="0.356956" Y-max="0.613498" Z-min="0.745508" Z-max="0.830599"/>
+            </Trajectory_Relation_11>
+            <Trajectory_Relation_12>
+                <System Origin="12" X-axis="6" XY-plane="9" Min="89.636382" Max="118.963884"/>
+                <Related_Trajectory Index="5" X-min="0.229394" X-max="0.489793" Y-min="0.389666" Y-max="0.536161" Z-min="-0.886427" Z-max="-0.690148"/>
+                <Related_Trajectory Index="7" X-min="-0.907688" X-max="0.891969" Y-min="-0.838568" Y-max="-0.409613" Z-min="-0.139714" Z-max="0.668475"/>
+                <Related_Trajectory Index="10" X-min="-0.998298" X-max="-0.602920" Y-min="-0.010883" Y-max="0.573111" Z-min="0.057887" Z-max="0.755434"/>
+            </Trajectory_Relation_12>
+            <Trajectory_Relation_13>
+                <System Origin="12" X-axis="9" XY-plane="5" Min="57.552553" Max="76.699126"/>
+                <Related_Trajectory Index="6" X-min="-0.484258" X-max="0.006346" Y-min="0.364712" Y-max="0.577050" Z-min="-0.832723" Z-max="-0.745156"/>
+                <Related_Trajectory Index="10" X-min="0.408440" X-max="0.741250" Y-min="-0.855681" Y-max="-0.494120" Z-min="-0.040060" Z-max="0.743609"/>
+            </Trajectory_Relation_13>
+            <Trajectory_Relation_14>
+                <System Origin="12" X-axis="9" XY-plane="6" Min="89.636382" Max="118.963884"/>
+                <Related_Trajectory Index="5" X-min="0.230065" X-max="0.536526" Y-min="0.399203" Y-max="0.542954" Z-min="0.690148" Z-max="0.886427"/>
+                <Related_Trajectory Index="7" X-min="-0.986531" X-max="0.035104" Y-min="-0.998299" Y-max="0.892996" Z-min="-0.668475" Z-max="0.139714"/>
+                <Related_Trajectory Index="10" X-min="0.408440" X-max="0.741250" Y-min="-0.893812" Y-max="-0.403035" Z-min="-0.755434" Z-max="-0.057887"/>
+            </Trajectory_Relation_14>
+        </Relations>
+        <FilesUsed>1</FilesUsed>
+    </Body_1>
+</QTM_Model_Ver_1.00>
